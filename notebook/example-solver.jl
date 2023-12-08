@@ -19,3 +19,5 @@ solution_summary(model)
 
 check_admissible = number_of_transactions(market) < 200
 validate_solution(solution, market; check_admissible=check_admissible)
+
+println("Accepted transactions:\n", solution)
