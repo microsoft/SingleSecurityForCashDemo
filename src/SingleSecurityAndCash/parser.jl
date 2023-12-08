@@ -1,8 +1,8 @@
 #=
 parser.jl
 
-This is a parser for the new format of the transaction settlement scenario
-provided by Lee. The input file is a text file (masquerading as a CSV file)
+This is a parser for the new format of the transaction settlement scenario.
+The input file is a text file (masquerading as a CSV file)
 that contains two sections: the first section contains the party data and
 the second section contains the transaction data. Each section is indeed
 a CSV file, and the two sections are separated by blank lines.
