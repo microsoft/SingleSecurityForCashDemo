@@ -19,7 +19,6 @@ then the participant can use the exchange facility to clear the cash balance.
 The objective is to enable as many transactions as possible. An alternative objective
 is to maximise the total value of the transactions.
 
-This is the scenario proposed by Lee.
 =#
 
 module SingleSecurityAndCash
